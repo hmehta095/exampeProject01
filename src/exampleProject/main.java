@@ -18,6 +18,8 @@ public class main {
 		
 		//2. output a welcome message
 		System.out.println("Hello " + personName);
+		
+		System.out.println("hi");
 	}
 
 }
